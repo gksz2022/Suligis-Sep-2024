@@ -1,1 +1,1 @@
-var json_Riversandstreams_10 = {"type":"FeatureCollection","name":"Riversandstreams_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Riversandstreams_10 = {"type":"FeatureCollection","name":"Riversandstreams","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
